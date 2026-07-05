@@ -1,8 +1,15 @@
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=its-meerabmalik&" alt="its-meerabmalik" /></p>
-<h1 align="center">Hi 👋, I'm Meerab</h1>
+<p align="center">
+  <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Meerab+Malik;Future+Software+Engineer;Learning+C%2B%2B+%7C+Python+%7C+AI;Building+Projects+Every+Day;Welcome+to+my+GitHub!" alt="Typing SVG" />
+</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Meerab+Malik;Future+Software+Engineer;Learning+C%2B%2B+%7C+Python+%7C+AI;Building+Projects+Every+Day;Welcome+to+my+GitHub!" alt="Typing SVG" />
+</p><h1 align="center">Hi 👋, I'm Meerab</h1>
 <h3 align="center">🚀 Future Software Engineer | AI & Web Development Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=its-meerabmalik&label=Profile%20views&color=0e75b6&style=flat" alt="its-meerabmalik" /> </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500">
+</p>
 
 - 🌱 I’m currently learning **C++, Python, Data Structures & Algorithms, Git, GitHub, HTML, CSS**
 
@@ -23,4 +30,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Meerab+Malik;Future+Software+Engineer;Learning+C%2B%2B+%7C+Python+%7C+AI;Building+Projects+Every+Day;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </p>
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Meerab+Malik;Future+Software+Engineer;Learning+C%2B%2B+%7C+Python+%7C+AI;Building+Projects+Every+Day;Welcome+to+my+GitHub!" alt="Typing SVG" />
+</p>
