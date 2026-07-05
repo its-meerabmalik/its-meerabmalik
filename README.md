@@ -1,5 +1,9 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120">
+</p>
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=32&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Meerab" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=000000&size=32&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Meerab" />
 </h1>
 
 <h3 align="center">🚀 Future Software Engineer | AI & Web Development Enthusiast</h3>
@@ -55,17 +59,4 @@
 
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=its-meerabmalik" />
-</p>
-
----
-
-## 💻 Animated Character (Laptop Dev)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="250">
-</p>
-
-<p align="center">
-  <b>Developer is coding... 💻</b><br>
-  <b>System running smoothly ✔</b>
 </p>
