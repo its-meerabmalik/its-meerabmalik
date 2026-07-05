@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120">
+</p>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=000000&size=32&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Meerab" />
@@ -16,20 +19,6 @@
 - 🌱 Learning **C++, Python, DSA, Git, GitHub, HTML, CSS**
 - 💬 Ask me about **Programming & Web Development**
 - ⚡ Fun fact: I enjoy turning ideas into code.
-
----
-
-## 💻 Developer Mode Activated
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="220">
-</p>
-
-<p align="center">
-  <b>Initializing Developer Environment...</b><br>
-  <b>Loading Skills...</b><br>
-  <b>System Ready ✔</b>
-</p>
 
 ---
 
