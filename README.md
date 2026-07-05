@@ -1,16 +1,44 @@
-## Hi there 👋
+ Hi there, I'm Meerab 👋 
 
-<!--
-**its-meerabmalik/its-meerabmalik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student
+💻 Passionate about building software and solving real-world problems.
 
-Here are some ideas to get you started:
+🌱 Currently Learning
+* C++
+* Python
+* Data Structures & Algorithms
+* Web Development
+* Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🚀 Goals 
+* Build meaningful software projects
+* Contribute to open-source projects
+* Strengthen problem-solving skills
+* Learn Artificial Intelligence and Machine Learning
+* Become a Software Engineer
+
+🛠️ Technologies & Tools 
+* C++
+* Python
+* HTML
+* CSS
+* Git
+* GitHub
+* Visual Studio Code
+  
+📂 Featured Projects
+Projects coming soon! Stay tuned as I continue learning and building.
+
+ 📈 GitHub Journey 
+I believe the best way to learn programming is by building projects, writing clean code, and improving a little every day.
+
+📫 Connect With Me 
+* GitHub: @its-meerabmalik
+* LinkedIn: *Coming Soon*
+
+
+ 
+
+
+
+⭐ "Turning ideas into projects, one commit at a time."
